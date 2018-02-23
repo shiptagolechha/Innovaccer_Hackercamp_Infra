@@ -19,4 +19,4 @@ The choice of action to be peformed out of 1,2 and 3 and on which directory we h
 
 Command to run the file on terminal-
 
-python innovaccerf.py
+python Innovaccerf.py
